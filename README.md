@@ -36,6 +36,7 @@ It predicts most cases as “0”
 
 
 
+
 Decision Tree:
 
 Accuracy: 0.72 (lower)
