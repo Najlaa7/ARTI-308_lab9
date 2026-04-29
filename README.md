@@ -13,7 +13,7 @@ What performed better the random forest or the decision tree?
 The Random Forest model achieved higher overall accuracy than the Decision Tree (0.85 vs 0.72). However, the Decision Tree performed better at identifying the minority class (not fully paid loans), while the Random Forest was heavily biased toward the majority class and failed to correctly detect most risky loans
 
 
-Random Forest
+Random Forest:
 
 Accuracy: 0.85 (higher)
 
@@ -36,7 +36,7 @@ It predicts most cases as “0”
 
 
 
-Decision Tree
+Decision Tree:
 
 Accuracy: 0.72 (lower)
 
